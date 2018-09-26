@@ -1,3 +1,3 @@
 # Recitation-3308
-# Kara Wallace
+# Kara Wallace Tanner Slemer
 # Lab 4
